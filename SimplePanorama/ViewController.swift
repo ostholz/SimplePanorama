@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  SimplePanorama
 //
-//  Created by Dong Wang on 13.09.19.
-//  Copyright © 2019 CTS Eventim. All rights reserved.
-//
 
 import UIKit
 import SceneKit
